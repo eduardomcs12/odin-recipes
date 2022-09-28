@@ -15,4 +15,12 @@ Small recipe website project testing current HTML skills. Content and lessons wi
 
 2- Don't forget to use opening and closing quotation marks when using 'git commit -m' command.
 
-3- Use unordered lists when appending multiple different links so they don't go all on the same line.                                           
+3- Use unordered lists when appending multiple different links so they don't go all on the same line. 
+
+4- (CSS) External CSS seems to be the most useful way to add CSS to HTML since it uses a separate file (a .css archive) containing all the styles to attribute to HTML. To use it, 2 attributes are needed: <link rel> to indicate a relationship between the link and the HTML file and the <href> to use a relative or absolute path of your .css archive.
+
+5- (CSS) Selectors must always contain attributes inside " " which CSS rules will apply later on.
+
+6- (CSS) ID selectors must have an unique attribute.
+
+7- (CSS) Class selectors are able to have multiple classes at the same element separating their names using an whitespace. Multi-worded names must be separated using hyphen (-).

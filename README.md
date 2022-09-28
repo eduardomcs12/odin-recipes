@@ -17,6 +17,8 @@ Small recipe website project testing current HTML skills. Content and lessons wi
 
 3- Use unordered lists when appending multiple different links so they don't go all on the same line. 
 
+##### CSS
+
 4- (CSS) External CSS seems to be the most useful way to add CSS to HTML since it uses a separate file (a .css archive) containing all the styles to attribute to HTML. To use it, 2 attributes are needed: <link rel> to indicate a relationship between the link and the HTML file and the <href> to use a relative or absolute path of your .css archive.
 
 5- (CSS) Selectors must always contain attributes inside " " which CSS rules will apply later on.
